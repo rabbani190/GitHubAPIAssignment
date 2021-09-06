@@ -69,9 +69,6 @@ There was no real data to validate against, I just used dummy json from an origi
 - GET `https://api.github.com/repos/<user_name>/<repo_name>`
 - _may touch a few others_
 
-### GitHub Repo (for sharing and caring)
-https://github.com/jaylara/github-api-test
-
 #### Important files
 - Config File: karate-config.js: https://github.com/jaylara/github-api-test/blob/master/src/test/java/karate-config.js
 - Test Runner: ReposTestRunner.java: https://github.com/jaylara/github-api-test/blob/master/src/test/java/repos/ReposTestRunner.java
