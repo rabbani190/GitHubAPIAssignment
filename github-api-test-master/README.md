@@ -70,10 +70,10 @@ There was no real data to validate against, I just used dummy json from an origi
 - _may touch a few others_
 
 #### Important files
-- Config File: karate-config.js: https://github.com/jaylara/github-api-test/blob/master/src/test/java/karate-config.js
-- Test Runner: ReposTestRunner.java: https://github.com/jaylara/github-api-test/blob/master/src/test/java/repos/ReposTestRunner.java
-- Tests: Get Repo.feature: https://github.com/jaylara/github-api-test/blob/master/src/test/java/repos/Get%20Repo.feature
-- Reusable Feature: fetchRepo.feature: https://github.com/jaylara/github-api-test/blob/master/src/test/java/resusable/features/fetchRepo.feature
+- Config File: karate-config.js: https://github.com/rabbani190/GitHubAPIAssignment/blob/main/github-api-test-master/src/test/java/karate-config.js
+- Test Runner: ReposTestRunner.java: https://github.com/rabbani190/GitHubAPIAssignment/blob/main/github-api-test-master/src/test/java/repos/ReposTestRunner.java
+- Tests: Get Repo.feature: https://github.com/rabbani190/GitHubAPIAssignment/blob/main/github-api-test-master/src/test/java/repos/Get%20Repo.feature
+- Reusable Feature: fetchRepo.feature: https://github.com/rabbani190/GitHubAPIAssignment/blob/main/github-api-test-master/src/test/java/resusable/features/fetchRepo.feature
 
 ### How to Run
 1. Cloned git repo locally.
