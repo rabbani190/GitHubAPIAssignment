@@ -1,0 +1,1025 @@
+16:35:08.951 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+16:35:11.689 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/Star_/eclipse-workspace/github/target/test-classes/examples%5cusers%5cusers.feature
+16:35:18.831 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+16:35:30.683 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 8928
+16:35:31.891 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 66
+16:35:32.243 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+16:35:34.583 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 2176
+16:35:34.616 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+10:25:36.787 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+10:25:37.141 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/Star_/eclipse-workspace/github/target/test-classes/examples%5cusers%5cusers.feature
+10:25:38.496 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+10:25:38.506 [main] WARN  com.intuit.karate.ScriptContext - start-up configuration failed, missing or bad 'karate-config.js' - ReferenceError: "cApiProtocol" is not defined
+10:27:30.627 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+10:27:30.866 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/Star_/eclipse-workspace/github/target/test-classes/examples%5cusers%5cusers.feature
+10:27:32.011 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+10:27:32.019 [main] WARN  com.intuit.karate.ScriptContext - start-up configuration failed, missing or bad 'karate-config.js' - ReferenceError: "cApiProtocol" is not defined
+10:36:25.172 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+10:36:25.407 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/Star_/eclipse-workspace/github/target/test-classes/examples%5cusers%5cusers.feature
+10:36:26.773 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+10:38:00.438 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+10:38:00.668 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/Star_/eclipse-workspace/github/target/test-classes/examples%5cusers%5cusers.feature
+10:38:01.880 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+10:38:04.211 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1860
+10:38:04.312 [main] ERROR com.intuit.karate.StepDefs - FAILED, status code was 404, expected 200
+10:38:58.726 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+10:38:58.968 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/Star_/eclipse-workspace/github/target/test-classes/examples%5cusers%5cusers.feature
+10:39:00.048 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+10:39:01.866 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1447
+10:39:01.998 [main] INFO  com.intuit.karate.StepDefs - [print] {message=Not Found, documentation_url=https://developer.github.com/v3/repos/#list-organization-repositories}
+10:40:01.828 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+10:40:02.095 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/Star_/eclipse-workspace/github/target/test-classes/examples%5cusers%5cusers.feature
+10:40:03.185 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+10:40:04.897 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1338
+10:40:05.024 [main] INFO  com.intuit.karate.StepDefs - [print] {message=Not Found, documentation_url=https://developer.github.com/v3}
+10:40:32.049 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+10:40:32.284 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/Star_/eclipse-workspace/github/target/test-classes/examples%5cusers%5cusers.feature
+10:40:33.366 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+10:40:35.088 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1354
+10:40:35.236 [main] INFO  com.intuit.karate.StepDefs - [print] {id=110597338, node_id=MDEwOlJlcG9zaXRvcnkxMTA1OTczMzg=, name=jaydata, full_name=jaylara/jaydata, owner={login=jaylara, id=31249568, node_id=MDQ6VXNlcjMxMjQ5NTY4, avatar_url=https://avatars1.githubusercontent.com/u/31249568?v=4, gravatar_id=, url=https://api.github.com/users/jaylara, html_url=https://github.com/jaylara, followers_url=https://api.github.com/users/jaylara/followers, following_url=https://api.github.com/users/jaylara/following{/other_user}, gists_url=https://api.github.com/users/jaylara/gists{/gist_id}, starred_url=https://api.github.com/users/jaylara/starred{/owner}{/repo}, subscriptions_url=https://api.github.com/users/jaylara/subscriptions, organizations_url=https://api.github.com/users/jaylara/orgs, repos_url=https://api.github.com/users/jaylara/repos, events_url=https://api.github.com/users/jaylara/events{/privacy}, received_events_url=https://api.github.com/users/jaylara/received_events, type=User, site_admin=false}, private=false, html_url=https://github.com/jaylara/jaydata, description=A centralized location for all of my APIs, fork=false, url=https://api.github.com/repos/jaylara/jaydata, forks_url=https://api.github.com/repos/jaylara/jaydata/forks, keys_url=https://api.github.com/repos/jaylara/jaydata/keys{/key_id}, collaborators_url=https://api.github.com/repos/jaylara/jaydata/collaborators{/collaborator}, teams_url=https://api.github.com/repos/jaylara/jaydata/teams, hooks_url=https://api.github.com/repos/jaylara/jaydata/hooks, issue_events_url=https://api.github.com/repos/jaylara/jaydata/issues/events{/number}, events_url=https://api.github.com/repos/jaylara/jaydata/events, assignees_url=https://api.github.com/repos/jaylara/jaydata/assignees{/user}, branches_url=https://api.github.com/repos/jaylara/jaydata/branches{/branch}, tags_url=https://api.github.com/repos/jaylara/jaydata/tags, blobs_url=https://api.github.com/repos/jaylara/jaydata/git/blobs{/sha}, git_tags_url=https://api.github.com/repos/jaylara/jaydata/git/tags{/sha}, git_refs_url=https://api.github.com/repos/jaylara/jaydata/git/refs{/sha}, trees_url=https://api.github.com/repos/jaylara/jaydata/git/trees{/sha}, statuses_url=https://api.github.com/repos/jaylara/jaydata/statuses/{sha}, languages_url=https://api.github.com/repos/jaylara/jaydata/languages, stargazers_url=https://api.github.com/repos/jaylara/jaydata/stargazers, contributors_url=https://api.github.com/repos/jaylara/jaydata/contributors, subscribers_url=https://api.github.com/repos/jaylara/jaydata/subscribers, subscription_url=https://api.github.com/repos/jaylara/jaydata/subscription, commits_url=https://api.github.com/repos/jaylara/jaydata/commits{/sha}, git_commits_url=https://api.github.com/repos/jaylara/jaydata/git/commits{/sha}, comments_url=https://api.github.com/repos/jaylara/jaydata/comments{/number}, issue_comment_url=https://api.github.com/repos/jaylara/jaydata/issues/comments{/number}, contents_url=https://api.github.com/repos/jaylara/jaydata/contents/{+path}, compare_url=https://api.github.com/repos/jaylara/jaydata/compare/{base}...{head}, merges_url=https://api.github.com/repos/jaylara/jaydata/merges, archive_url=https://api.github.com/repos/jaylara/jaydata/{archive_format}{/ref}, downloads_url=https://api.github.com/repos/jaylara/jaydata/downloads, issues_url=https://api.github.com/repos/jaylara/jaydata/issues{/number}, pulls_url=https://api.github.com/repos/jaylara/jaydata/pulls{/number}, milestones_url=https://api.github.com/repos/jaylara/jaydata/milestones{/number}, notifications_url=https://api.github.com/repos/jaylara/jaydata/notifications{?since,all,participating}, labels_url=https://api.github.com/repos/jaylara/jaydata/labels{/name}, releases_url=https://api.github.com/repos/jaylara/jaydata/releases{/id}, deployments_url=https://api.github.com/repos/jaylara/jaydata/deployments, created_at=2017-11-13T20:18:49Z, updated_at=2017-11-13T22:47:28Z, pushed_at=2017-12-03T21:59:58Z, git_url=git://github.com/jaylara/jaydata.git, ssh_url=git@github.com:jaylara/jaydata.git, clone_url=https://github.com/jaylara/jaydata.git, svn_url=https://github.com/jaylara/jaydata, homepage=null, size=71, stargazers_count=0, watchers_count=0, language=JavaScript, has_issues=true, has_projects=true, has_downloads=true, has_wiki=true, has_pages=false, forks_count=0, mirror_url=null, archived=false, open_issues_count=0, license=null, forks=0, open_issues=0, watchers=0, default_branch=master, network_count=0, subscribers_count=0}
+11:15:07.365 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+11:15:07.607 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/Star_/eclipse-workspace/github/target/test-classes/examples%5cusers%5cusers.feature
+11:15:08.669 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: undefined 
+11:15:08.689 [main] WARN  com.intuit.karate.ScriptContext - start-up configuration failed, missing or bad 'karate-config.js' - TypeError: karate.configure is not a function
+11:17:01.853 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+11:17:02.098 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/Star_/eclipse-workspace/github/target/test-classes/examples%5cusers%5cusers.feature
+11:17:03.217 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: dev 
+11:17:03.236 [main] WARN  com.intuit.karate.ScriptContext - start-up configuration failed, missing or bad 'karate-config.js' - TypeError: karate.configure is not a function
+11:18:36.767 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+11:18:37.069 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Users/Star_/eclipse-workspace/github/target/test-classes/examples%5cusers%5cusers.feature
+11:18:38.150 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: dev 
+11:18:38.169 [main] WARN  com.intuit.karate.ScriptContext - start-up configuration failed, missing or bad 'karate-config.js' - TypeError: karate.configure is not a function
+11:33:29.975 [main] INFO  com.intuit.karate - karate.env system property was: dev 
+11:33:31.058 [main] DEBUG com.intuit.karate - 
+1 > GET https://api.github.com/repos/jaylara/jaydata
+1 > Accept: application/vnd.github.v3+json
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: api.github.com
+1 > User-Agent: Apache-HttpClient/4.5.4 (Java/1.8.0_152)
+
+11:33:31.592 [main] DEBUG com.intuit.karate - 
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval
+1 < Cache-Control: public, max-age=60, s-maxage=60
+1 < Content-Security-Policy: default-src 'none'
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Fri, 22 Jun 2018 16:33:30 GMT
+1 < ETag: W/"514bf38afb589eb978a0733c4a8f4016"
+1 < Last-Modified: Mon, 13 Nov 2017 22:47:28 GMT
+1 < Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+1 < Server: GitHub.com
+1 < Status: 200 OK
+1 < Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept
+1 < X-Content-Type-Options: nosniff
+1 < X-Frame-Options: deny
+1 < X-GitHub-Media-Type: github.v3; format=json
+1 < X-GitHub-Request-Id: C874:6AD0:10EA5F1:23E1A5B:5B2D24DA
+1 < X-RateLimit-Limit: 60
+1 < X-RateLimit-Remaining: 55
+1 < X-RateLimit-Reset: 1529685483
+1 < X-Runtime-rack: 0.050254
+1 < X-XSS-Protection: 1; mode=block
+{"id":110597338,"node_id":"MDEwOlJlcG9zaXRvcnkxMTA1OTczMzg=","name":"jaydata","full_name":"jaylara/jaydata","owner":{"login":"jaylara","id":31249568,"node_id":"MDQ6VXNlcjMxMjQ5NTY4","avatar_url":"https://avatars1.githubusercontent.com/u/31249568?v=4","gravatar_id":"","url":"https://api.github.com/users/jaylara","html_url":"https://github.com/jaylara","followers_url":"https://api.github.com/users/jaylara/followers","following_url":"https://api.github.com/users/jaylara/following{/other_user}","gists_url":"https://api.github.com/users/jaylara/gists{/gist_id}","starred_url":"https://api.github.com/users/jaylara/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/jaylara/subscriptions","organizations_url":"https://api.github.com/users/jaylara/orgs","repos_url":"https://api.github.com/users/jaylara/repos","events_url":"https://api.github.com/users/jaylara/events{/privacy}","received_events_url":"https://api.github.com/users/jaylara/received_events","type":"User","site_admin":false},"private":false,"html_url":"https://github.com/jaylara/jaydata","description":"A centralized location for all of my APIs","fork":false,"url":"https://api.github.com/repos/jaylara/jaydata","forks_url":"https://api.github.com/repos/jaylara/jaydata/forks","keys_url":"https://api.github.com/repos/jaylara/jaydata/keys{/key_id}","collaborators_url":"https://api.github.com/repos/jaylara/jaydata/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/jaylara/jaydata/teams","hooks_url":"https://api.github.com/repos/jaylara/jaydata/hooks","issue_events_url":"https://api.github.com/repos/jaylara/jaydata/issues/events{/number}","events_url":"https://api.github.com/repos/jaylara/jaydata/events","assignees_url":"https://api.github.com/repos/jaylara/jaydata/assignees{/user}","branches_url":"https://api.github.com/repos/jaylara/jaydata/branches{/branch}","tags_url":"https://api.github.com/repos/jaylara/jaydata/tags","blobs_url":"https://api.github.com/repos/jaylara/jaydata/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/jaylara/jaydata/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/jaylara/jaydata/git/refs{/sha}","trees_url":"https://api.github.com/repos/jaylara/jaydata/git/trees{/sha}","statuses_url":"https://api.github.com/repos/jaylara/jaydata/statuses/{sha}","languages_url":"https://api.github.com/repos/jaylara/jaydata/languages","stargazers_url":"https://api.github.com/repos/jaylara/jaydata/stargazers","contributors_url":"https://api.github.com/repos/jaylara/jaydata/contributors","subscribers_url":"https://api.github.com/repos/jaylara/jaydata/subscribers","subscription_url":"https://api.github.com/repos/jaylara/jaydata/subscription","commits_url":"https://api.github.com/repos/jaylara/jaydata/commits{/sha}","git_commits_url":"https://api.github.com/repos/jaylara/jaydata/git/commits{/sha}","comments_url":"https://api.github.com/repos/jaylara/jaydata/comments{/number}","issue_comment_url":"https://api.github.com/repos/jaylara/jaydata/issues/comments{/number}","contents_url":"https://api.github.com/repos/jaylara/jaydata/contents/{+path}","compare_url":"https://api.github.com/repos/jaylara/jaydata/compare/{base}...{head}","merges_url":"https://api.github.com/repos/jaylara/jaydata/merges","archive_url":"https://api.github.com/repos/jaylara/jaydata/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/jaylara/jaydata/downloads","issues_url":"https://api.github.com/repos/jaylara/jaydata/issues{/number}","pulls_url":"https://api.github.com/repos/jaylara/jaydata/pulls{/number}","milestones_url":"https://api.github.com/repos/jaylara/jaydata/milestones{/number}","notifications_url":"https://api.github.com/repos/jaylara/jaydata/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/jaylara/jaydata/labels{/name}","releases_url":"https://api.github.com/repos/jaylara/jaydata/releases{/id}","deployments_url":"https://api.github.com/repos/jaylara/jaydata/deployments","created_at":"2017-11-13T20:18:49Z","updated_at":"2017-11-13T22:47:28Z","pushed_at":"2017-12-03T21:59:58Z","git_url":"git://github.com/jaylara/jaydata.git","ssh_url":"git@github.com:jaylara/jaydata.git","clone_url":"https://github.com/jaylara/jaydata.git","svn_url":"https://github.com/jaylara/jaydata","homepage":null,"size":71,"stargazers_count":0,"watchers_count":0,"language":"JavaScript","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":0,"mirror_url":null,"archived":false,"open_issues_count":0,"license":null,"forks":0,"open_issues":0,"watchers":0,"default_branch":"master","network_count":0,"subscribers_count":0}
+
+11:33:31.594 [main] DEBUG com.intuit.karate - response time in milliseconds: 1377
+11:33:31.690 [main] INFO  com.intuit.karate - response:
+{
+  "id": 110597338,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMTA1OTczMzg=",
+  "name": "jaydata",
+  "full_name": "jaylara/jaydata",
+  "owner": {
+    "login": "jaylara",
+    "id": 31249568,
+    "node_id": "MDQ6VXNlcjMxMjQ5NTY4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/31249568?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jaylara",
+    "html_url": "https://github.com/jaylara",
+    "followers_url": "https://api.github.com/users/jaylara/followers",
+    "following_url": "https://api.github.com/users/jaylara/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jaylara/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jaylara/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jaylara/subscriptions",
+    "organizations_url": "https://api.github.com/users/jaylara/orgs",
+    "repos_url": "https://api.github.com/users/jaylara/repos",
+    "events_url": "https://api.github.com/users/jaylara/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jaylara/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "private": false,
+  "html_url": "https://github.com/jaylara/jaydata",
+  "description": "A centralized location for all of my APIs",
+  "fork": false,
+  "url": "https://api.github.com/repos/jaylara/jaydata",
+  "forks_url": "https://api.github.com/repos/jaylara/jaydata/forks",
+  "keys_url": "https://api.github.com/repos/jaylara/jaydata/keys{/key_id}",
+  "collaborators_url": "https://api.github.com/repos/jaylara/jaydata/collaborators{/collaborator}",
+  "teams_url": "https://api.github.com/repos/jaylara/jaydata/teams",
+  "hooks_url": "https://api.github.com/repos/jaylara/jaydata/hooks",
+  "issue_events_url": "https://api.github.com/repos/jaylara/jaydata/issues/events{/number}",
+  "events_url": "https://api.github.com/repos/jaylara/jaydata/events",
+  "assignees_url": "https://api.github.com/repos/jaylara/jaydata/assignees{/user}",
+  "branches_url": "https://api.github.com/repos/jaylara/jaydata/branches{/branch}",
+  "tags_url": "https://api.github.com/repos/jaylara/jaydata/tags",
+  "blobs_url": "https://api.github.com/repos/jaylara/jaydata/git/blobs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/jaylara/jaydata/git/tags{/sha}",
+  "git_refs_url": "https://api.github.com/repos/jaylara/jaydata/git/refs{/sha}",
+  "trees_url": "https://api.github.com/repos/jaylara/jaydata/git/trees{/sha}",
+  "statuses_url": "https://api.github.com/repos/jaylara/jaydata/statuses/{sha}",
+  "languages_url": "https://api.github.com/repos/jaylara/jaydata/languages",
+  "stargazers_url": "https://api.github.com/repos/jaylara/jaydata/stargazers",
+  "contributors_url": "https://api.github.com/repos/jaylara/jaydata/contributors",
+  "subscribers_url": "https://api.github.com/repos/jaylara/jaydata/subscribers",
+  "subscription_url": "https://api.github.com/repos/jaylara/jaydata/subscription",
+  "commits_url": "https://api.github.com/repos/jaylara/jaydata/commits{/sha}",
+  "git_commits_url": "https://api.github.com/repos/jaylara/jaydata/git/commits{/sha}",
+  "comments_url": "https://api.github.com/repos/jaylara/jaydata/comments{/number}",
+  "issue_comment_url": "https://api.github.com/repos/jaylara/jaydata/issues/comments{/number}",
+  "contents_url": "https://api.github.com/repos/jaylara/jaydata/contents/{+path}",
+  "compare_url": "https://api.github.com/repos/jaylara/jaydata/compare/{base}...{head}",
+  "merges_url": "https://api.github.com/repos/jaylara/jaydata/merges",
+  "archive_url": "https://api.github.com/repos/jaylara/jaydata/{archive_format}{/ref}",
+  "downloads_url": "https://api.github.com/repos/jaylara/jaydata/downloads",
+  "issues_url": "https://api.github.com/repos/jaylara/jaydata/issues{/number}",
+  "pulls_url": "https://api.github.com/repos/jaylara/jaydata/pulls{/number}",
+  "milestones_url": "https://api.github.com/repos/jaylara/jaydata/milestones{/number}",
+  "notifications_url": "https://api.github.com/repos/jaylara/jaydata/notifications{?since,all,participating}",
+  "labels_url": "https://api.github.com/repos/jaylara/jaydata/labels{/name}",
+  "releases_url": "https://api.github.com/repos/jaylara/jaydata/releases{/id}",
+  "deployments_url": "https://api.github.com/repos/jaylara/jaydata/deployments",
+  "created_at": "2017-11-13T20:18:49Z",
+  "updated_at": "2017-11-13T22:47:28Z",
+  "pushed_at": "2017-12-03T21:59:58Z",
+  "git_url": "git://github.com/jaylara/jaydata.git",
+  "ssh_url": "git@github.com:jaylara/jaydata.git",
+  "clone_url": "https://github.com/jaylara/jaydata.git",
+  "svn_url": "https://github.com/jaylara/jaydata",
+  "homepage": null,
+  "size": 71,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "language": "JavaScript",
+  "has_issues": true,
+  "has_projects": true,
+  "has_downloads": true,
+  "has_wiki": true,
+  "has_pages": false,
+  "forks_count": 0,
+  "mirror_url": null,
+  "archived": false,
+  "open_issues_count": 0,
+  "license": null,
+  "forks": 0,
+  "open_issues": 0,
+  "watchers": 0,
+  "default_branch": "master",
+  "network_count": 0,
+  "subscribers_count": 0
+}
+
+11:33:31.707 [main] INFO  com.intuit.karate - [print] {
+  "id": 110597338,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMTA1OTczMzg=",
+  "name": "jaydata",
+  "full_name": "jaylara/jaydata",
+  "owner": {
+    "login": "jaylara",
+    "id": 31249568,
+    "node_id": "MDQ6VXNlcjMxMjQ5NTY4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/31249568?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jaylara",
+    "html_url": "https://github.com/jaylara",
+    "followers_url": "https://api.github.com/users/jaylara/followers",
+    "following_url": "https://api.github.com/users/jaylara/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jaylara/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jaylara/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jaylara/subscriptions",
+    "organizations_url": "https://api.github.com/users/jaylara/orgs",
+    "repos_url": "https://api.github.com/users/jaylara/repos",
+    "events_url": "https://api.github.com/users/jaylara/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jaylara/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "private": false,
+  "html_url": "https://github.com/jaylara/jaydata",
+  "description": "A centralized location for all of my APIs",
+  "fork": false,
+  "url": "https://api.github.com/repos/jaylara/jaydata",
+  "forks_url": "https://api.github.com/repos/jaylara/jaydata/forks",
+  "keys_url": "https://api.github.com/repos/jaylara/jaydata/keys{/key_id}",
+  "collaborators_url": "https://api.github.com/repos/jaylara/jaydata/collaborators{/collaborator}",
+  "teams_url": "https://api.github.com/repos/jaylara/jaydata/teams",
+  "hooks_url": "https://api.github.com/repos/jaylara/jaydata/hooks",
+  "issue_events_url": "https://api.github.com/repos/jaylara/jaydata/issues/events{/number}",
+  "events_url": "https://api.github.com/repos/jaylara/jaydata/events",
+  "assignees_url": "https://api.github.com/repos/jaylara/jaydata/assignees{/user}",
+  "branches_url": "https://api.github.com/repos/jaylara/jaydata/branches{/branch}",
+  "tags_url": "https://api.github.com/repos/jaylara/jaydata/tags",
+  "blobs_url": "https://api.github.com/repos/jaylara/jaydata/git/blobs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/jaylara/jaydata/git/tags{/sha}",
+  "git_refs_url": "https://api.github.com/repos/jaylara/jaydata/git/refs{/sha}",
+  "trees_url": "https://api.github.com/repos/jaylara/jaydata/git/trees{/sha}",
+  "statuses_url": "https://api.github.com/repos/jaylara/jaydata/statuses/{sha}",
+  "languages_url": "https://api.github.com/repos/jaylara/jaydata/languages",
+  "stargazers_url": "https://api.github.com/repos/jaylara/jaydata/stargazers",
+  "contributors_url": "https://api.github.com/repos/jaylara/jaydata/contributors",
+  "subscribers_url": "https://api.github.com/repos/jaylara/jaydata/subscribers",
+  "subscription_url": "https://api.github.com/repos/jaylara/jaydata/subscription",
+  "commits_url": "https://api.github.com/repos/jaylara/jaydata/commits{/sha}",
+  "git_commits_url": "https://api.github.com/repos/jaylara/jaydata/git/commits{/sha}",
+  "comments_url": "https://api.github.com/repos/jaylara/jaydata/comments{/number}",
+  "issue_comment_url": "https://api.github.com/repos/jaylara/jaydata/issues/comments{/number}",
+  "contents_url": "https://api.github.com/repos/jaylara/jaydata/contents/{+path}",
+  "compare_url": "https://api.github.com/repos/jaylara/jaydata/compare/{base}...{head}",
+  "merges_url": "https://api.github.com/repos/jaylara/jaydata/merges",
+  "archive_url": "https://api.github.com/repos/jaylara/jaydata/{archive_format}{/ref}",
+  "downloads_url": "https://api.github.com/repos/jaylara/jaydata/downloads",
+  "issues_url": "https://api.github.com/repos/jaylara/jaydata/issues{/number}",
+  "pulls_url": "https://api.github.com/repos/jaylara/jaydata/pulls{/number}",
+  "milestones_url": "https://api.github.com/repos/jaylara/jaydata/milestones{/number}",
+  "notifications_url": "https://api.github.com/repos/jaylara/jaydata/notifications{?since,all,participating}",
+  "labels_url": "https://api.github.com/repos/jaylara/jaydata/labels{/name}",
+  "releases_url": "https://api.github.com/repos/jaylara/jaydata/releases{/id}",
+  "deployments_url": "https://api.github.com/repos/jaylara/jaydata/deployments",
+  "created_at": "2017-11-13T20:18:49Z",
+  "updated_at": "2017-11-13T22:47:28Z",
+  "pushed_at": "2017-12-03T21:59:58Z",
+  "git_url": "git://github.com/jaylara/jaydata.git",
+  "ssh_url": "git@github.com:jaylara/jaydata.git",
+  "clone_url": "https://github.com/jaylara/jaydata.git",
+  "svn_url": "https://github.com/jaylara/jaydata",
+  "homepage": null,
+  "size": 71,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "language": "JavaScript",
+  "has_issues": true,
+  "has_projects": true,
+  "has_downloads": true,
+  "has_wiki": true,
+  "has_pages": false,
+  "forks_count": 0,
+  "mirror_url": null,
+  "archived": false,
+  "open_issues_count": 0,
+  "license": null,
+  "forks": 0,
+  "open_issues": 0,
+  "watchers": 0,
+  "default_branch": "master",
+  "network_count": 0,
+  "subscribers_count": 0
+}
+
+11:33:31.711 [main] INFO  com.intuit.karate - [print] dev
+17:37:17.035 [main] INFO  com.intuit.karate - karate.env system property was: dev 
+17:37:18.151 [main] DEBUG com.intuit.karate - 
+1 > GET https://api.github.com/repos/jaylara/jaydata
+1 > Accept: application/vnd.github.v3+json
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: api.github.com
+1 > User-Agent: Apache-HttpClient/4.5.4 (Java/1.8.0_152)
+
+17:37:18.770 [main] DEBUG com.intuit.karate - 
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval
+1 < Cache-Control: public, max-age=60, s-maxage=60
+1 < Content-Security-Policy: default-src 'none'
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Fri, 22 Jun 2018 22:37:18 GMT
+1 < ETag: W/"514bf38afb589eb978a0733c4a8f4016"
+1 < Last-Modified: Mon, 13 Nov 2017 22:47:28 GMT
+1 < Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+1 < Server: GitHub.com
+1 < Status: 200 OK
+1 < Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept
+1 < X-Content-Type-Options: nosniff
+1 < X-Frame-Options: deny
+1 < X-GitHub-Media-Type: github.v3; format=json
+1 < X-GitHub-Request-Id: D063:6AD0:12E1219:2816B34:5B2D7A1E
+1 < X-RateLimit-Limit: 60
+1 < X-RateLimit-Remaining: 58
+1 < X-RateLimit-Reset: 1529710082
+1 < X-Runtime-rack: 0.041716
+1 < X-XSS-Protection: 1; mode=block
+{"id":110597338,"node_id":"MDEwOlJlcG9zaXRvcnkxMTA1OTczMzg=","name":"jaydata","full_name":"jaylara/jaydata","owner":{"login":"jaylara","id":31249568,"node_id":"MDQ6VXNlcjMxMjQ5NTY4","avatar_url":"https://avatars1.githubusercontent.com/u/31249568?v=4","gravatar_id":"","url":"https://api.github.com/users/jaylara","html_url":"https://github.com/jaylara","followers_url":"https://api.github.com/users/jaylara/followers","following_url":"https://api.github.com/users/jaylara/following{/other_user}","gists_url":"https://api.github.com/users/jaylara/gists{/gist_id}","starred_url":"https://api.github.com/users/jaylara/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/jaylara/subscriptions","organizations_url":"https://api.github.com/users/jaylara/orgs","repos_url":"https://api.github.com/users/jaylara/repos","events_url":"https://api.github.com/users/jaylara/events{/privacy}","received_events_url":"https://api.github.com/users/jaylara/received_events","type":"User","site_admin":false},"private":false,"html_url":"https://github.com/jaylara/jaydata","description":"A centralized location for all of my APIs","fork":false,"url":"https://api.github.com/repos/jaylara/jaydata","forks_url":"https://api.github.com/repos/jaylara/jaydata/forks","keys_url":"https://api.github.com/repos/jaylara/jaydata/keys{/key_id}","collaborators_url":"https://api.github.com/repos/jaylara/jaydata/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/jaylara/jaydata/teams","hooks_url":"https://api.github.com/repos/jaylara/jaydata/hooks","issue_events_url":"https://api.github.com/repos/jaylara/jaydata/issues/events{/number}","events_url":"https://api.github.com/repos/jaylara/jaydata/events","assignees_url":"https://api.github.com/repos/jaylara/jaydata/assignees{/user}","branches_url":"https://api.github.com/repos/jaylara/jaydata/branches{/branch}","tags_url":"https://api.github.com/repos/jaylara/jaydata/tags","blobs_url":"https://api.github.com/repos/jaylara/jaydata/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/jaylara/jaydata/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/jaylara/jaydata/git/refs{/sha}","trees_url":"https://api.github.com/repos/jaylara/jaydata/git/trees{/sha}","statuses_url":"https://api.github.com/repos/jaylara/jaydata/statuses/{sha}","languages_url":"https://api.github.com/repos/jaylara/jaydata/languages","stargazers_url":"https://api.github.com/repos/jaylara/jaydata/stargazers","contributors_url":"https://api.github.com/repos/jaylara/jaydata/contributors","subscribers_url":"https://api.github.com/repos/jaylara/jaydata/subscribers","subscription_url":"https://api.github.com/repos/jaylara/jaydata/subscription","commits_url":"https://api.github.com/repos/jaylara/jaydata/commits{/sha}","git_commits_url":"https://api.github.com/repos/jaylara/jaydata/git/commits{/sha}","comments_url":"https://api.github.com/repos/jaylara/jaydata/comments{/number}","issue_comment_url":"https://api.github.com/repos/jaylara/jaydata/issues/comments{/number}","contents_url":"https://api.github.com/repos/jaylara/jaydata/contents/{+path}","compare_url":"https://api.github.com/repos/jaylara/jaydata/compare/{base}...{head}","merges_url":"https://api.github.com/repos/jaylara/jaydata/merges","archive_url":"https://api.github.com/repos/jaylara/jaydata/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/jaylara/jaydata/downloads","issues_url":"https://api.github.com/repos/jaylara/jaydata/issues{/number}","pulls_url":"https://api.github.com/repos/jaylara/jaydata/pulls{/number}","milestones_url":"https://api.github.com/repos/jaylara/jaydata/milestones{/number}","notifications_url":"https://api.github.com/repos/jaylara/jaydata/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/jaylara/jaydata/labels{/name}","releases_url":"https://api.github.com/repos/jaylara/jaydata/releases{/id}","deployments_url":"https://api.github.com/repos/jaylara/jaydata/deployments","created_at":"2017-11-13T20:18:49Z","updated_at":"2017-11-13T22:47:28Z","pushed_at":"2017-12-03T21:59:58Z","git_url":"git://github.com/jaylara/jaydata.git","ssh_url":"git@github.com:jaylara/jaydata.git","clone_url":"https://github.com/jaylara/jaydata.git","svn_url":"https://github.com/jaylara/jaydata","homepage":null,"size":71,"stargazers_count":0,"watchers_count":0,"language":"JavaScript","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":0,"mirror_url":null,"archived":false,"open_issues_count":0,"license":null,"forks":0,"open_issues":0,"watchers":0,"default_branch":"master","network_count":0,"subscribers_count":0}
+
+17:37:18.773 [main] DEBUG com.intuit.karate - response time in milliseconds: 1491
+17:37:18.866 [main] INFO  com.intuit.karate - response:
+{
+  "id": 110597338,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMTA1OTczMzg=",
+  "name": "jaydata",
+  "full_name": "jaylara/jaydata",
+  "owner": {
+    "login": "jaylara",
+    "id": 31249568,
+    "node_id": "MDQ6VXNlcjMxMjQ5NTY4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/31249568?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jaylara",
+    "html_url": "https://github.com/jaylara",
+    "followers_url": "https://api.github.com/users/jaylara/followers",
+    "following_url": "https://api.github.com/users/jaylara/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jaylara/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jaylara/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jaylara/subscriptions",
+    "organizations_url": "https://api.github.com/users/jaylara/orgs",
+    "repos_url": "https://api.github.com/users/jaylara/repos",
+    "events_url": "https://api.github.com/users/jaylara/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jaylara/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "private": false,
+  "html_url": "https://github.com/jaylara/jaydata",
+  "description": "A centralized location for all of my APIs",
+  "fork": false,
+  "url": "https://api.github.com/repos/jaylara/jaydata",
+  "forks_url": "https://api.github.com/repos/jaylara/jaydata/forks",
+  "keys_url": "https://api.github.com/repos/jaylara/jaydata/keys{/key_id}",
+  "collaborators_url": "https://api.github.com/repos/jaylara/jaydata/collaborators{/collaborator}",
+  "teams_url": "https://api.github.com/repos/jaylara/jaydata/teams",
+  "hooks_url": "https://api.github.com/repos/jaylara/jaydata/hooks",
+  "issue_events_url": "https://api.github.com/repos/jaylara/jaydata/issues/events{/number}",
+  "events_url": "https://api.github.com/repos/jaylara/jaydata/events",
+  "assignees_url": "https://api.github.com/repos/jaylara/jaydata/assignees{/user}",
+  "branches_url": "https://api.github.com/repos/jaylara/jaydata/branches{/branch}",
+  "tags_url": "https://api.github.com/repos/jaylara/jaydata/tags",
+  "blobs_url": "https://api.github.com/repos/jaylara/jaydata/git/blobs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/jaylara/jaydata/git/tags{/sha}",
+  "git_refs_url": "https://api.github.com/repos/jaylara/jaydata/git/refs{/sha}",
+  "trees_url": "https://api.github.com/repos/jaylara/jaydata/git/trees{/sha}",
+  "statuses_url": "https://api.github.com/repos/jaylara/jaydata/statuses/{sha}",
+  "languages_url": "https://api.github.com/repos/jaylara/jaydata/languages",
+  "stargazers_url": "https://api.github.com/repos/jaylara/jaydata/stargazers",
+  "contributors_url": "https://api.github.com/repos/jaylara/jaydata/contributors",
+  "subscribers_url": "https://api.github.com/repos/jaylara/jaydata/subscribers",
+  "subscription_url": "https://api.github.com/repos/jaylara/jaydata/subscription",
+  "commits_url": "https://api.github.com/repos/jaylara/jaydata/commits{/sha}",
+  "git_commits_url": "https://api.github.com/repos/jaylara/jaydata/git/commits{/sha}",
+  "comments_url": "https://api.github.com/repos/jaylara/jaydata/comments{/number}",
+  "issue_comment_url": "https://api.github.com/repos/jaylara/jaydata/issues/comments{/number}",
+  "contents_url": "https://api.github.com/repos/jaylara/jaydata/contents/{+path}",
+  "compare_url": "https://api.github.com/repos/jaylara/jaydata/compare/{base}...{head}",
+  "merges_url": "https://api.github.com/repos/jaylara/jaydata/merges",
+  "archive_url": "https://api.github.com/repos/jaylara/jaydata/{archive_format}{/ref}",
+  "downloads_url": "https://api.github.com/repos/jaylara/jaydata/downloads",
+  "issues_url": "https://api.github.com/repos/jaylara/jaydata/issues{/number}",
+  "pulls_url": "https://api.github.com/repos/jaylara/jaydata/pulls{/number}",
+  "milestones_url": "https://api.github.com/repos/jaylara/jaydata/milestones{/number}",
+  "notifications_url": "https://api.github.com/repos/jaylara/jaydata/notifications{?since,all,participating}",
+  "labels_url": "https://api.github.com/repos/jaylara/jaydata/labels{/name}",
+  "releases_url": "https://api.github.com/repos/jaylara/jaydata/releases{/id}",
+  "deployments_url": "https://api.github.com/repos/jaylara/jaydata/deployments",
+  "created_at": "2017-11-13T20:18:49Z",
+  "updated_at": "2017-11-13T22:47:28Z",
+  "pushed_at": "2017-12-03T21:59:58Z",
+  "git_url": "git://github.com/jaylara/jaydata.git",
+  "ssh_url": "git@github.com:jaylara/jaydata.git",
+  "clone_url": "https://github.com/jaylara/jaydata.git",
+  "svn_url": "https://github.com/jaylara/jaydata",
+  "homepage": null,
+  "size": 71,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "language": "JavaScript",
+  "has_issues": true,
+  "has_projects": true,
+  "has_downloads": true,
+  "has_wiki": true,
+  "has_pages": false,
+  "forks_count": 0,
+  "mirror_url": null,
+  "archived": false,
+  "open_issues_count": 0,
+  "license": null,
+  "forks": 0,
+  "open_issues": 0,
+  "watchers": 0,
+  "default_branch": "master",
+  "network_count": 0,
+  "subscribers_count": 0
+}
+
+17:37:44.683 [main] INFO  com.intuit.karate - karate.env system property was: dev 
+17:37:45.555 [main] DEBUG com.intuit.karate - 
+1 > GET https://api.github.com/repos/jaylara/jaydata
+1 > Accept: application/vnd.github.v3+json
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: api.github.com
+1 > User-Agent: Apache-HttpClient/4.5.4 (Java/1.8.0_152)
+
+17:37:46.118 [main] DEBUG com.intuit.karate - 
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval
+1 < Cache-Control: public, max-age=60, s-maxage=60
+1 < Content-Security-Policy: default-src 'none'
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Fri, 22 Jun 2018 22:37:46 GMT
+1 < ETag: W/"514bf38afb589eb978a0733c4a8f4016"
+1 < Last-Modified: Mon, 13 Nov 2017 22:47:28 GMT
+1 < Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+1 < Server: GitHub.com
+1 < Status: 200 OK
+1 < Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept
+1 < X-Content-Type-Options: nosniff
+1 < X-Frame-Options: deny
+1 < X-GitHub-Media-Type: github.v3; format=json
+1 < X-GitHub-Request-Id: D06A:6AD0:12E19A9:2817BF3:5B2D7A39
+1 < X-RateLimit-Limit: 60
+1 < X-RateLimit-Remaining: 57
+1 < X-RateLimit-Reset: 1529710082
+1 < X-Runtime-rack: 0.058522
+1 < X-XSS-Protection: 1; mode=block
+{"id":110597338,"node_id":"MDEwOlJlcG9zaXRvcnkxMTA1OTczMzg=","name":"jaydata","full_name":"jaylara/jaydata","owner":{"login":"jaylara","id":31249568,"node_id":"MDQ6VXNlcjMxMjQ5NTY4","avatar_url":"https://avatars1.githubusercontent.com/u/31249568?v=4","gravatar_id":"","url":"https://api.github.com/users/jaylara","html_url":"https://github.com/jaylara","followers_url":"https://api.github.com/users/jaylara/followers","following_url":"https://api.github.com/users/jaylara/following{/other_user}","gists_url":"https://api.github.com/users/jaylara/gists{/gist_id}","starred_url":"https://api.github.com/users/jaylara/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/jaylara/subscriptions","organizations_url":"https://api.github.com/users/jaylara/orgs","repos_url":"https://api.github.com/users/jaylara/repos","events_url":"https://api.github.com/users/jaylara/events{/privacy}","received_events_url":"https://api.github.com/users/jaylara/received_events","type":"User","site_admin":false},"private":false,"html_url":"https://github.com/jaylara/jaydata","description":"A centralized location for all of my APIs","fork":false,"url":"https://api.github.com/repos/jaylara/jaydata","forks_url":"https://api.github.com/repos/jaylara/jaydata/forks","keys_url":"https://api.github.com/repos/jaylara/jaydata/keys{/key_id}","collaborators_url":"https://api.github.com/repos/jaylara/jaydata/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/jaylara/jaydata/teams","hooks_url":"https://api.github.com/repos/jaylara/jaydata/hooks","issue_events_url":"https://api.github.com/repos/jaylara/jaydata/issues/events{/number}","events_url":"https://api.github.com/repos/jaylara/jaydata/events","assignees_url":"https://api.github.com/repos/jaylara/jaydata/assignees{/user}","branches_url":"https://api.github.com/repos/jaylara/jaydata/branches{/branch}","tags_url":"https://api.github.com/repos/jaylara/jaydata/tags","blobs_url":"https://api.github.com/repos/jaylara/jaydata/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/jaylara/jaydata/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/jaylara/jaydata/git/refs{/sha}","trees_url":"https://api.github.com/repos/jaylara/jaydata/git/trees{/sha}","statuses_url":"https://api.github.com/repos/jaylara/jaydata/statuses/{sha}","languages_url":"https://api.github.com/repos/jaylara/jaydata/languages","stargazers_url":"https://api.github.com/repos/jaylara/jaydata/stargazers","contributors_url":"https://api.github.com/repos/jaylara/jaydata/contributors","subscribers_url":"https://api.github.com/repos/jaylara/jaydata/subscribers","subscription_url":"https://api.github.com/repos/jaylara/jaydata/subscription","commits_url":"https://api.github.com/repos/jaylara/jaydata/commits{/sha}","git_commits_url":"https://api.github.com/repos/jaylara/jaydata/git/commits{/sha}","comments_url":"https://api.github.com/repos/jaylara/jaydata/comments{/number}","issue_comment_url":"https://api.github.com/repos/jaylara/jaydata/issues/comments{/number}","contents_url":"https://api.github.com/repos/jaylara/jaydata/contents/{+path}","compare_url":"https://api.github.com/repos/jaylara/jaydata/compare/{base}...{head}","merges_url":"https://api.github.com/repos/jaylara/jaydata/merges","archive_url":"https://api.github.com/repos/jaylara/jaydata/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/jaylara/jaydata/downloads","issues_url":"https://api.github.com/repos/jaylara/jaydata/issues{/number}","pulls_url":"https://api.github.com/repos/jaylara/jaydata/pulls{/number}","milestones_url":"https://api.github.com/repos/jaylara/jaydata/milestones{/number}","notifications_url":"https://api.github.com/repos/jaylara/jaydata/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/jaylara/jaydata/labels{/name}","releases_url":"https://api.github.com/repos/jaylara/jaydata/releases{/id}","deployments_url":"https://api.github.com/repos/jaylara/jaydata/deployments","created_at":"2017-11-13T20:18:49Z","updated_at":"2017-11-13T22:47:28Z","pushed_at":"2017-12-03T21:59:58Z","git_url":"git://github.com/jaylara/jaydata.git","ssh_url":"git@github.com:jaylara/jaydata.git","clone_url":"https://github.com/jaylara/jaydata.git","svn_url":"https://github.com/jaylara/jaydata","homepage":null,"size":71,"stargazers_count":0,"watchers_count":0,"language":"JavaScript","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":0,"mirror_url":null,"archived":false,"open_issues_count":0,"license":null,"forks":0,"open_issues":0,"watchers":0,"default_branch":"master","network_count":0,"subscribers_count":0}
+
+17:37:46.119 [main] DEBUG com.intuit.karate - response time in milliseconds: 1236
+17:37:46.203 [main] INFO  com.intuit.karate - response:
+{
+  "id": 110597338,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMTA1OTczMzg=",
+  "name": "jaydata",
+  "full_name": "jaylara/jaydata",
+  "owner": {
+    "login": "jaylara",
+    "id": 31249568,
+    "node_id": "MDQ6VXNlcjMxMjQ5NTY4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/31249568?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jaylara",
+    "html_url": "https://github.com/jaylara",
+    "followers_url": "https://api.github.com/users/jaylara/followers",
+    "following_url": "https://api.github.com/users/jaylara/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jaylara/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jaylara/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jaylara/subscriptions",
+    "organizations_url": "https://api.github.com/users/jaylara/orgs",
+    "repos_url": "https://api.github.com/users/jaylara/repos",
+    "events_url": "https://api.github.com/users/jaylara/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jaylara/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "private": false,
+  "html_url": "https://github.com/jaylara/jaydata",
+  "description": "A centralized location for all of my APIs",
+  "fork": false,
+  "url": "https://api.github.com/repos/jaylara/jaydata",
+  "forks_url": "https://api.github.com/repos/jaylara/jaydata/forks",
+  "keys_url": "https://api.github.com/repos/jaylara/jaydata/keys{/key_id}",
+  "collaborators_url": "https://api.github.com/repos/jaylara/jaydata/collaborators{/collaborator}",
+  "teams_url": "https://api.github.com/repos/jaylara/jaydata/teams",
+  "hooks_url": "https://api.github.com/repos/jaylara/jaydata/hooks",
+  "issue_events_url": "https://api.github.com/repos/jaylara/jaydata/issues/events{/number}",
+  "events_url": "https://api.github.com/repos/jaylara/jaydata/events",
+  "assignees_url": "https://api.github.com/repos/jaylara/jaydata/assignees{/user}",
+  "branches_url": "https://api.github.com/repos/jaylara/jaydata/branches{/branch}",
+  "tags_url": "https://api.github.com/repos/jaylara/jaydata/tags",
+  "blobs_url": "https://api.github.com/repos/jaylara/jaydata/git/blobs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/jaylara/jaydata/git/tags{/sha}",
+  "git_refs_url": "https://api.github.com/repos/jaylara/jaydata/git/refs{/sha}",
+  "trees_url": "https://api.github.com/repos/jaylara/jaydata/git/trees{/sha}",
+  "statuses_url": "https://api.github.com/repos/jaylara/jaydata/statuses/{sha}",
+  "languages_url": "https://api.github.com/repos/jaylara/jaydata/languages",
+  "stargazers_url": "https://api.github.com/repos/jaylara/jaydata/stargazers",
+  "contributors_url": "https://api.github.com/repos/jaylara/jaydata/contributors",
+  "subscribers_url": "https://api.github.com/repos/jaylara/jaydata/subscribers",
+  "subscription_url": "https://api.github.com/repos/jaylara/jaydata/subscription",
+  "commits_url": "https://api.github.com/repos/jaylara/jaydata/commits{/sha}",
+  "git_commits_url": "https://api.github.com/repos/jaylara/jaydata/git/commits{/sha}",
+  "comments_url": "https://api.github.com/repos/jaylara/jaydata/comments{/number}",
+  "issue_comment_url": "https://api.github.com/repos/jaylara/jaydata/issues/comments{/number}",
+  "contents_url": "https://api.github.com/repos/jaylara/jaydata/contents/{+path}",
+  "compare_url": "https://api.github.com/repos/jaylara/jaydata/compare/{base}...{head}",
+  "merges_url": "https://api.github.com/repos/jaylara/jaydata/merges",
+  "archive_url": "https://api.github.com/repos/jaylara/jaydata/{archive_format}{/ref}",
+  "downloads_url": "https://api.github.com/repos/jaylara/jaydata/downloads",
+  "issues_url": "https://api.github.com/repos/jaylara/jaydata/issues{/number}",
+  "pulls_url": "https://api.github.com/repos/jaylara/jaydata/pulls{/number}",
+  "milestones_url": "https://api.github.com/repos/jaylara/jaydata/milestones{/number}",
+  "notifications_url": "https://api.github.com/repos/jaylara/jaydata/notifications{?since,all,participating}",
+  "labels_url": "https://api.github.com/repos/jaylara/jaydata/labels{/name}",
+  "releases_url": "https://api.github.com/repos/jaylara/jaydata/releases{/id}",
+  "deployments_url": "https://api.github.com/repos/jaylara/jaydata/deployments",
+  "created_at": "2017-11-13T20:18:49Z",
+  "updated_at": "2017-11-13T22:47:28Z",
+  "pushed_at": "2017-12-03T21:59:58Z",
+  "git_url": "git://github.com/jaylara/jaydata.git",
+  "ssh_url": "git@github.com:jaylara/jaydata.git",
+  "clone_url": "https://github.com/jaylara/jaydata.git",
+  "svn_url": "https://github.com/jaylara/jaydata",
+  "homepage": null,
+  "size": 71,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "language": "JavaScript",
+  "has_issues": true,
+  "has_projects": true,
+  "has_downloads": true,
+  "has_wiki": true,
+  "has_pages": false,
+  "forks_count": 0,
+  "mirror_url": null,
+  "archived": false,
+  "open_issues_count": 0,
+  "license": null,
+  "forks": 0,
+  "open_issues": 0,
+  "watchers": 0,
+  "default_branch": "master",
+  "network_count": 0,
+  "subscribers_count": 0
+}
+
+17:37:46.289 [main] INFO  com.intuit.karate - [print] https://avatars1.githubusercontent.com/u/31249568
+17:51:17.061 [main] INFO  com.intuit.karate - karate.env system property was: dev 
+17:51:17.987 [main] DEBUG com.intuit.karate - 
+1 > GET https://api.github.com/repos/jaylara/jaydata
+1 > Accept: application/vnd.github.v3+json
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: api.github.com
+1 > User-Agent: Apache-HttpClient/4.5.4 (Java/1.8.0_152)
+
+17:51:18.548 [main] DEBUG com.intuit.karate - 
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval
+1 < Cache-Control: public, max-age=60, s-maxage=60
+1 < Content-Security-Policy: default-src 'none'
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Fri, 22 Jun 2018 22:51:18 GMT
+1 < ETag: W/"514bf38afb589eb978a0733c4a8f4016"
+1 < Last-Modified: Mon, 13 Nov 2017 22:47:28 GMT
+1 < Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+1 < Server: GitHub.com
+1 < Status: 200 OK
+1 < Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept
+1 < X-Content-Type-Options: nosniff
+1 < X-Frame-Options: deny
+1 < X-GitHub-Media-Type: github.v3; format=json
+1 < X-GitHub-Request-Id: D4CA:6AD2:18A76CF:30C160A:5B2D7D66
+1 < X-RateLimit-Limit: 60
+1 < X-RateLimit-Remaining: 56
+1 < X-RateLimit-Reset: 1529710082
+1 < X-Runtime-rack: 0.035349
+1 < X-XSS-Protection: 1; mode=block
+{"id":110597338,"node_id":"MDEwOlJlcG9zaXRvcnkxMTA1OTczMzg=","name":"jaydata","full_name":"jaylara/jaydata","owner":{"login":"jaylara","id":31249568,"node_id":"MDQ6VXNlcjMxMjQ5NTY4","avatar_url":"https://avatars1.githubusercontent.com/u/31249568?v=4","gravatar_id":"","url":"https://api.github.com/users/jaylara","html_url":"https://github.com/jaylara","followers_url":"https://api.github.com/users/jaylara/followers","following_url":"https://api.github.com/users/jaylara/following{/other_user}","gists_url":"https://api.github.com/users/jaylara/gists{/gist_id}","starred_url":"https://api.github.com/users/jaylara/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/jaylara/subscriptions","organizations_url":"https://api.github.com/users/jaylara/orgs","repos_url":"https://api.github.com/users/jaylara/repos","events_url":"https://api.github.com/users/jaylara/events{/privacy}","received_events_url":"https://api.github.com/users/jaylara/received_events","type":"User","site_admin":false},"private":false,"html_url":"https://github.com/jaylara/jaydata","description":"A centralized location for all of my APIs","fork":false,"url":"https://api.github.com/repos/jaylara/jaydata","forks_url":"https://api.github.com/repos/jaylara/jaydata/forks","keys_url":"https://api.github.com/repos/jaylara/jaydata/keys{/key_id}","collaborators_url":"https://api.github.com/repos/jaylara/jaydata/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/jaylara/jaydata/teams","hooks_url":"https://api.github.com/repos/jaylara/jaydata/hooks","issue_events_url":"https://api.github.com/repos/jaylara/jaydata/issues/events{/number}","events_url":"https://api.github.com/repos/jaylara/jaydata/events","assignees_url":"https://api.github.com/repos/jaylara/jaydata/assignees{/user}","branches_url":"https://api.github.com/repos/jaylara/jaydata/branches{/branch}","tags_url":"https://api.github.com/repos/jaylara/jaydata/tags","blobs_url":"https://api.github.com/repos/jaylara/jaydata/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/jaylara/jaydata/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/jaylara/jaydata/git/refs{/sha}","trees_url":"https://api.github.com/repos/jaylara/jaydata/git/trees{/sha}","statuses_url":"https://api.github.com/repos/jaylara/jaydata/statuses/{sha}","languages_url":"https://api.github.com/repos/jaylara/jaydata/languages","stargazers_url":"https://api.github.com/repos/jaylara/jaydata/stargazers","contributors_url":"https://api.github.com/repos/jaylara/jaydata/contributors","subscribers_url":"https://api.github.com/repos/jaylara/jaydata/subscribers","subscription_url":"https://api.github.com/repos/jaylara/jaydata/subscription","commits_url":"https://api.github.com/repos/jaylara/jaydata/commits{/sha}","git_commits_url":"https://api.github.com/repos/jaylara/jaydata/git/commits{/sha}","comments_url":"https://api.github.com/repos/jaylara/jaydata/comments{/number}","issue_comment_url":"https://api.github.com/repos/jaylara/jaydata/issues/comments{/number}","contents_url":"https://api.github.com/repos/jaylara/jaydata/contents/{+path}","compare_url":"https://api.github.com/repos/jaylara/jaydata/compare/{base}...{head}","merges_url":"https://api.github.com/repos/jaylara/jaydata/merges","archive_url":"https://api.github.com/repos/jaylara/jaydata/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/jaylara/jaydata/downloads","issues_url":"https://api.github.com/repos/jaylara/jaydata/issues{/number}","pulls_url":"https://api.github.com/repos/jaylara/jaydata/pulls{/number}","milestones_url":"https://api.github.com/repos/jaylara/jaydata/milestones{/number}","notifications_url":"https://api.github.com/repos/jaylara/jaydata/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/jaylara/jaydata/labels{/name}","releases_url":"https://api.github.com/repos/jaylara/jaydata/releases{/id}","deployments_url":"https://api.github.com/repos/jaylara/jaydata/deployments","created_at":"2017-11-13T20:18:49Z","updated_at":"2017-11-13T22:47:28Z","pushed_at":"2017-12-03T21:59:58Z","git_url":"git://github.com/jaylara/jaydata.git","ssh_url":"git@github.com:jaylara/jaydata.git","clone_url":"https://github.com/jaylara/jaydata.git","svn_url":"https://github.com/jaylara/jaydata","homepage":null,"size":71,"stargazers_count":0,"watchers_count":0,"language":"JavaScript","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":0,"mirror_url":null,"archived":false,"open_issues_count":0,"license":null,"forks":0,"open_issues":0,"watchers":0,"default_branch":"master","network_count":0,"subscribers_count":0}
+
+17:51:18.549 [main] DEBUG com.intuit.karate - response time in milliseconds: 1275
+17:51:18.624 [main] INFO  com.intuit.karate - response:
+{
+  "id": 110597338,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMTA1OTczMzg=",
+  "name": "jaydata",
+  "full_name": "jaylara/jaydata",
+  "owner": {
+    "login": "jaylara",
+    "id": 31249568,
+    "node_id": "MDQ6VXNlcjMxMjQ5NTY4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/31249568?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jaylara",
+    "html_url": "https://github.com/jaylara",
+    "followers_url": "https://api.github.com/users/jaylara/followers",
+    "following_url": "https://api.github.com/users/jaylara/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jaylara/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jaylara/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jaylara/subscriptions",
+    "organizations_url": "https://api.github.com/users/jaylara/orgs",
+    "repos_url": "https://api.github.com/users/jaylara/repos",
+    "events_url": "https://api.github.com/users/jaylara/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jaylara/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "private": false,
+  "html_url": "https://github.com/jaylara/jaydata",
+  "description": "A centralized location for all of my APIs",
+  "fork": false,
+  "url": "https://api.github.com/repos/jaylara/jaydata",
+  "forks_url": "https://api.github.com/repos/jaylara/jaydata/forks",
+  "keys_url": "https://api.github.com/repos/jaylara/jaydata/keys{/key_id}",
+  "collaborators_url": "https://api.github.com/repos/jaylara/jaydata/collaborators{/collaborator}",
+  "teams_url": "https://api.github.com/repos/jaylara/jaydata/teams",
+  "hooks_url": "https://api.github.com/repos/jaylara/jaydata/hooks",
+  "issue_events_url": "https://api.github.com/repos/jaylara/jaydata/issues/events{/number}",
+  "events_url": "https://api.github.com/repos/jaylara/jaydata/events",
+  "assignees_url": "https://api.github.com/repos/jaylara/jaydata/assignees{/user}",
+  "branches_url": "https://api.github.com/repos/jaylara/jaydata/branches{/branch}",
+  "tags_url": "https://api.github.com/repos/jaylara/jaydata/tags",
+  "blobs_url": "https://api.github.com/repos/jaylara/jaydata/git/blobs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/jaylara/jaydata/git/tags{/sha}",
+  "git_refs_url": "https://api.github.com/repos/jaylara/jaydata/git/refs{/sha}",
+  "trees_url": "https://api.github.com/repos/jaylara/jaydata/git/trees{/sha}",
+  "statuses_url": "https://api.github.com/repos/jaylara/jaydata/statuses/{sha}",
+  "languages_url": "https://api.github.com/repos/jaylara/jaydata/languages",
+  "stargazers_url": "https://api.github.com/repos/jaylara/jaydata/stargazers",
+  "contributors_url": "https://api.github.com/repos/jaylara/jaydata/contributors",
+  "subscribers_url": "https://api.github.com/repos/jaylara/jaydata/subscribers",
+  "subscription_url": "https://api.github.com/repos/jaylara/jaydata/subscription",
+  "commits_url": "https://api.github.com/repos/jaylara/jaydata/commits{/sha}",
+  "git_commits_url": "https://api.github.com/repos/jaylara/jaydata/git/commits{/sha}",
+  "comments_url": "https://api.github.com/repos/jaylara/jaydata/comments{/number}",
+  "issue_comment_url": "https://api.github.com/repos/jaylara/jaydata/issues/comments{/number}",
+  "contents_url": "https://api.github.com/repos/jaylara/jaydata/contents/{+path}",
+  "compare_url": "https://api.github.com/repos/jaylara/jaydata/compare/{base}...{head}",
+  "merges_url": "https://api.github.com/repos/jaylara/jaydata/merges",
+  "archive_url": "https://api.github.com/repos/jaylara/jaydata/{archive_format}{/ref}",
+  "downloads_url": "https://api.github.com/repos/jaylara/jaydata/downloads",
+  "issues_url": "https://api.github.com/repos/jaylara/jaydata/issues{/number}",
+  "pulls_url": "https://api.github.com/repos/jaylara/jaydata/pulls{/number}",
+  "milestones_url": "https://api.github.com/repos/jaylara/jaydata/milestones{/number}",
+  "notifications_url": "https://api.github.com/repos/jaylara/jaydata/notifications{?since,all,participating}",
+  "labels_url": "https://api.github.com/repos/jaylara/jaydata/labels{/name}",
+  "releases_url": "https://api.github.com/repos/jaylara/jaydata/releases{/id}",
+  "deployments_url": "https://api.github.com/repos/jaylara/jaydata/deployments",
+  "created_at": "2017-11-13T20:18:49Z",
+  "updated_at": "2017-11-13T22:47:28Z",
+  "pushed_at": "2017-12-03T21:59:58Z",
+  "git_url": "git://github.com/jaylara/jaydata.git",
+  "ssh_url": "git@github.com:jaylara/jaydata.git",
+  "clone_url": "https://github.com/jaylara/jaydata.git",
+  "svn_url": "https://github.com/jaylara/jaydata",
+  "homepage": null,
+  "size": 71,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "language": "JavaScript",
+  "has_issues": true,
+  "has_projects": true,
+  "has_downloads": true,
+  "has_wiki": true,
+  "has_pages": false,
+  "forks_count": 0,
+  "mirror_url": null,
+  "archived": false,
+  "open_issues_count": 0,
+  "license": null,
+  "forks": 0,
+  "open_issues": 0,
+  "watchers": 0,
+  "default_branch": "master",
+  "network_count": 0,
+  "subscribers_count": 0
+}
+
+17:51:44.877 [main] INFO  com.intuit.karate - karate.env system property was: dev 
+17:51:45.799 [main] DEBUG com.intuit.karate - 
+1 > GET https://api.github.com/repos/jaylara/jaydata
+1 > Accept: application/vnd.github.v3+json
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: api.github.com
+1 > User-Agent: Apache-HttpClient/4.5.4 (Java/1.8.0_152)
+
+17:51:46.329 [main] DEBUG com.intuit.karate - 
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval
+1 < Cache-Control: public, max-age=60, s-maxage=60
+1 < Content-Security-Policy: default-src 'none'
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Fri, 22 Jun 2018 22:51:46 GMT
+1 < ETag: W/"514bf38afb589eb978a0733c4a8f4016"
+1 < Last-Modified: Mon, 13 Nov 2017 22:47:28 GMT
+1 < Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+1 < Server: GitHub.com
+1 < Status: 200 OK
+1 < Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept
+1 < X-Content-Type-Options: nosniff
+1 < X-Frame-Options: deny
+1 < X-GitHub-Media-Type: github.v3; format=json
+1 < X-GitHub-Request-Id: D4F4:6AD0:12F3D2B:283DEE2:5B2D7D82
+1 < X-RateLimit-Limit: 60
+1 < X-RateLimit-Remaining: 55
+1 < X-RateLimit-Reset: 1529710082
+1 < X-Runtime-rack: 0.040745
+1 < X-XSS-Protection: 1; mode=block
+{"id":110597338,"node_id":"MDEwOlJlcG9zaXRvcnkxMTA1OTczMzg=","name":"jaydata","full_name":"jaylara/jaydata","owner":{"login":"jaylara","id":31249568,"node_id":"MDQ6VXNlcjMxMjQ5NTY4","avatar_url":"https://avatars1.githubusercontent.com/u/31249568?v=4","gravatar_id":"","url":"https://api.github.com/users/jaylara","html_url":"https://github.com/jaylara","followers_url":"https://api.github.com/users/jaylara/followers","following_url":"https://api.github.com/users/jaylara/following{/other_user}","gists_url":"https://api.github.com/users/jaylara/gists{/gist_id}","starred_url":"https://api.github.com/users/jaylara/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/jaylara/subscriptions","organizations_url":"https://api.github.com/users/jaylara/orgs","repos_url":"https://api.github.com/users/jaylara/repos","events_url":"https://api.github.com/users/jaylara/events{/privacy}","received_events_url":"https://api.github.com/users/jaylara/received_events","type":"User","site_admin":false},"private":false,"html_url":"https://github.com/jaylara/jaydata","description":"A centralized location for all of my APIs","fork":false,"url":"https://api.github.com/repos/jaylara/jaydata","forks_url":"https://api.github.com/repos/jaylara/jaydata/forks","keys_url":"https://api.github.com/repos/jaylara/jaydata/keys{/key_id}","collaborators_url":"https://api.github.com/repos/jaylara/jaydata/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/jaylara/jaydata/teams","hooks_url":"https://api.github.com/repos/jaylara/jaydata/hooks","issue_events_url":"https://api.github.com/repos/jaylara/jaydata/issues/events{/number}","events_url":"https://api.github.com/repos/jaylara/jaydata/events","assignees_url":"https://api.github.com/repos/jaylara/jaydata/assignees{/user}","branches_url":"https://api.github.com/repos/jaylara/jaydata/branches{/branch}","tags_url":"https://api.github.com/repos/jaylara/jaydata/tags","blobs_url":"https://api.github.com/repos/jaylara/jaydata/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/jaylara/jaydata/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/jaylara/jaydata/git/refs{/sha}","trees_url":"https://api.github.com/repos/jaylara/jaydata/git/trees{/sha}","statuses_url":"https://api.github.com/repos/jaylara/jaydata/statuses/{sha}","languages_url":"https://api.github.com/repos/jaylara/jaydata/languages","stargazers_url":"https://api.github.com/repos/jaylara/jaydata/stargazers","contributors_url":"https://api.github.com/repos/jaylara/jaydata/contributors","subscribers_url":"https://api.github.com/repos/jaylara/jaydata/subscribers","subscription_url":"https://api.github.com/repos/jaylara/jaydata/subscription","commits_url":"https://api.github.com/repos/jaylara/jaydata/commits{/sha}","git_commits_url":"https://api.github.com/repos/jaylara/jaydata/git/commits{/sha}","comments_url":"https://api.github.com/repos/jaylara/jaydata/comments{/number}","issue_comment_url":"https://api.github.com/repos/jaylara/jaydata/issues/comments{/number}","contents_url":"https://api.github.com/repos/jaylara/jaydata/contents/{+path}","compare_url":"https://api.github.com/repos/jaylara/jaydata/compare/{base}...{head}","merges_url":"https://api.github.com/repos/jaylara/jaydata/merges","archive_url":"https://api.github.com/repos/jaylara/jaydata/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/jaylara/jaydata/downloads","issues_url":"https://api.github.com/repos/jaylara/jaydata/issues{/number}","pulls_url":"https://api.github.com/repos/jaylara/jaydata/pulls{/number}","milestones_url":"https://api.github.com/repos/jaylara/jaydata/milestones{/number}","notifications_url":"https://api.github.com/repos/jaylara/jaydata/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/jaylara/jaydata/labels{/name}","releases_url":"https://api.github.com/repos/jaylara/jaydata/releases{/id}","deployments_url":"https://api.github.com/repos/jaylara/jaydata/deployments","created_at":"2017-11-13T20:18:49Z","updated_at":"2017-11-13T22:47:28Z","pushed_at":"2017-12-03T21:59:58Z","git_url":"git://github.com/jaylara/jaydata.git","ssh_url":"git@github.com:jaylara/jaydata.git","clone_url":"https://github.com/jaylara/jaydata.git","svn_url":"https://github.com/jaylara/jaydata","homepage":null,"size":71,"stargazers_count":0,"watchers_count":0,"language":"JavaScript","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":0,"mirror_url":null,"archived":false,"open_issues_count":0,"license":null,"forks":0,"open_issues":0,"watchers":0,"default_branch":"master","network_count":0,"subscribers_count":0}
+
+17:51:46.331 [main] DEBUG com.intuit.karate - response time in milliseconds: 1237
+17:51:46.401 [main] INFO  com.intuit.karate - response:
+{
+  "id": 110597338,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMTA1OTczMzg=",
+  "name": "jaydata",
+  "full_name": "jaylara/jaydata",
+  "owner": {
+    "login": "jaylara",
+    "id": 31249568,
+    "node_id": "MDQ6VXNlcjMxMjQ5NTY4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/31249568?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jaylara",
+    "html_url": "https://github.com/jaylara",
+    "followers_url": "https://api.github.com/users/jaylara/followers",
+    "following_url": "https://api.github.com/users/jaylara/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jaylara/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jaylara/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jaylara/subscriptions",
+    "organizations_url": "https://api.github.com/users/jaylara/orgs",
+    "repos_url": "https://api.github.com/users/jaylara/repos",
+    "events_url": "https://api.github.com/users/jaylara/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jaylara/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "private": false,
+  "html_url": "https://github.com/jaylara/jaydata",
+  "description": "A centralized location for all of my APIs",
+  "fork": false,
+  "url": "https://api.github.com/repos/jaylara/jaydata",
+  "forks_url": "https://api.github.com/repos/jaylara/jaydata/forks",
+  "keys_url": "https://api.github.com/repos/jaylara/jaydata/keys{/key_id}",
+  "collaborators_url": "https://api.github.com/repos/jaylara/jaydata/collaborators{/collaborator}",
+  "teams_url": "https://api.github.com/repos/jaylara/jaydata/teams",
+  "hooks_url": "https://api.github.com/repos/jaylara/jaydata/hooks",
+  "issue_events_url": "https://api.github.com/repos/jaylara/jaydata/issues/events{/number}",
+  "events_url": "https://api.github.com/repos/jaylara/jaydata/events",
+  "assignees_url": "https://api.github.com/repos/jaylara/jaydata/assignees{/user}",
+  "branches_url": "https://api.github.com/repos/jaylara/jaydata/branches{/branch}",
+  "tags_url": "https://api.github.com/repos/jaylara/jaydata/tags",
+  "blobs_url": "https://api.github.com/repos/jaylara/jaydata/git/blobs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/jaylara/jaydata/git/tags{/sha}",
+  "git_refs_url": "https://api.github.com/repos/jaylara/jaydata/git/refs{/sha}",
+  "trees_url": "https://api.github.com/repos/jaylara/jaydata/git/trees{/sha}",
+  "statuses_url": "https://api.github.com/repos/jaylara/jaydata/statuses/{sha}",
+  "languages_url": "https://api.github.com/repos/jaylara/jaydata/languages",
+  "stargazers_url": "https://api.github.com/repos/jaylara/jaydata/stargazers",
+  "contributors_url": "https://api.github.com/repos/jaylara/jaydata/contributors",
+  "subscribers_url": "https://api.github.com/repos/jaylara/jaydata/subscribers",
+  "subscription_url": "https://api.github.com/repos/jaylara/jaydata/subscription",
+  "commits_url": "https://api.github.com/repos/jaylara/jaydata/commits{/sha}",
+  "git_commits_url": "https://api.github.com/repos/jaylara/jaydata/git/commits{/sha}",
+  "comments_url": "https://api.github.com/repos/jaylara/jaydata/comments{/number}",
+  "issue_comment_url": "https://api.github.com/repos/jaylara/jaydata/issues/comments{/number}",
+  "contents_url": "https://api.github.com/repos/jaylara/jaydata/contents/{+path}",
+  "compare_url": "https://api.github.com/repos/jaylara/jaydata/compare/{base}...{head}",
+  "merges_url": "https://api.github.com/repos/jaylara/jaydata/merges",
+  "archive_url": "https://api.github.com/repos/jaylara/jaydata/{archive_format}{/ref}",
+  "downloads_url": "https://api.github.com/repos/jaylara/jaydata/downloads",
+  "issues_url": "https://api.github.com/repos/jaylara/jaydata/issues{/number}",
+  "pulls_url": "https://api.github.com/repos/jaylara/jaydata/pulls{/number}",
+  "milestones_url": "https://api.github.com/repos/jaylara/jaydata/milestones{/number}",
+  "notifications_url": "https://api.github.com/repos/jaylara/jaydata/notifications{?since,all,participating}",
+  "labels_url": "https://api.github.com/repos/jaylara/jaydata/labels{/name}",
+  "releases_url": "https://api.github.com/repos/jaylara/jaydata/releases{/id}",
+  "deployments_url": "https://api.github.com/repos/jaylara/jaydata/deployments",
+  "created_at": "2017-11-13T20:18:49Z",
+  "updated_at": "2017-11-13T22:47:28Z",
+  "pushed_at": "2017-12-03T21:59:58Z",
+  "git_url": "git://github.com/jaylara/jaydata.git",
+  "ssh_url": "git@github.com:jaylara/jaydata.git",
+  "clone_url": "https://github.com/jaylara/jaydata.git",
+  "svn_url": "https://github.com/jaylara/jaydata",
+  "homepage": null,
+  "size": 71,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "language": "JavaScript",
+  "has_issues": true,
+  "has_projects": true,
+  "has_downloads": true,
+  "has_wiki": true,
+  "has_pages": false,
+  "forks_count": 0,
+  "mirror_url": null,
+  "archived": false,
+  "open_issues_count": 0,
+  "license": null,
+  "forks": 0,
+  "open_issues": 0,
+  "watchers": 0,
+  "default_branch": "master",
+  "network_count": 0,
+  "subscribers_count": 0
+}
+
+17:51:46.483 [main] DEBUG com.intuit.karate - 
+2 > GET https://avatars1.githubusercontent.com/u/31249568
+2 > Accept-Encoding: gzip,deflate
+2 > Connection: Keep-Alive
+2 > Host: avatars1.githubusercontent.com
+2 > User-Agent: Apache-HttpClient/4.5.4 (Java/1.8.0_152)
+
+17:51:46.661 [main] DEBUG com.intuit.karate - 
+2 < 200
+2 < Accept-Ranges: bytes
+2 < Access-Control-Allow-Origin: *
+2 < Cache-Control: max-age=300
+2 < Connection: keep-alive
+2 < Content-Length: 23308
+2 < Content-Security-Policy: default-src 'none'
+2 < Content-Type: image/jpeg
+2 < Date: Fri, 22 Jun 2018 22:51:46 GMT
+2 < Etag: "00a3a10f1dbb82c5378286ffcb5806c478f68fa5"
+2 < Expires: Fri, 22 Jun 2018 22:56:46 GMT
+2 < Last-Modified: Fri, 01 Dec 2017 18:11:06 GMT
+2 < Source-Age: 1430
+2 < Strict-Transport-Security: max-age=31557600
+2 < Timing-Allow-Origin: https://github.com
+2 < Vary: Authorization,Accept-Encoding
+2 < Via: 1.1 varnish
+2 < X-Cache: HIT
+2 < X-Cache-Hits: 1
+2 < X-Content-Type-Options: nosniff
+2 < X-Fastly-Request-ID: 874bf54a7aa8c30ce20e9adb619402ac5aeeb1ec
+2 < X-Frame-Options: deny
+2 < X-GitHub-Request-Id: B80E:0B0D:AE99C:B9FC4:5B2D77EC
+2 < X-Served-By: cache-dfw18636-DFW
+2 < X-Timer: S1529707907.779176,VS0,VE1
+2 < X-Xss-Protection: 1; mode=block
+
+17:51:46.694 [main] DEBUG com.intuit.karate - response time in milliseconds: 213
+18:29:38.229 [main] INFO  com.intuit.karate - karate.env system property was: dev 
+18:29:39.394 [main] DEBUG com.intuit.karate - 
+1 > GET https://api.github.com/repos/jaylara/jaydata
+1 > Accept: application/vnd.github.v3+json
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: api.github.com
+1 > User-Agent: Apache-HttpClient/4.5.4 (Java/1.8.0_152)
+
+18:29:40.059 [main] DEBUG com.intuit.karate - 
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Access-Control-Expose-Headers: ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval
+1 < Cache-Control: public, max-age=60, s-maxage=60
+1 < Content-Security-Policy: default-src 'none'
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Fri, 22 Jun 2018 23:29:40 GMT
+1 < ETag: W/"514bf38afb589eb978a0733c4a8f4016"
+1 < Last-Modified: Mon, 13 Nov 2017 22:47:28 GMT
+1 < Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+1 < Server: GitHub.com
+1 < Status: 200 OK
+1 < Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept
+1 < X-Content-Type-Options: nosniff
+1 < X-Frame-Options: deny
+1 < X-GitHub-Media-Type: github.v3; format=json
+1 < X-GitHub-Request-Id: E1CB:6AD0:132298C:28A32C6:5B2D8663
+1 < X-RateLimit-Limit: 60
+1 < X-RateLimit-Remaining: 59
+1 < X-RateLimit-Reset: 1529713780
+1 < X-Runtime-rack: 0.036913
+1 < X-XSS-Protection: 1; mode=block
+{"id":110597338,"node_id":"MDEwOlJlcG9zaXRvcnkxMTA1OTczMzg=","name":"jaydata","full_name":"jaylara/jaydata","owner":{"login":"jaylara","id":31249568,"node_id":"MDQ6VXNlcjMxMjQ5NTY4","avatar_url":"https://avatars1.githubusercontent.com/u/31249568?v=4","gravatar_id":"","url":"https://api.github.com/users/jaylara","html_url":"https://github.com/jaylara","followers_url":"https://api.github.com/users/jaylara/followers","following_url":"https://api.github.com/users/jaylara/following{/other_user}","gists_url":"https://api.github.com/users/jaylara/gists{/gist_id}","starred_url":"https://api.github.com/users/jaylara/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/jaylara/subscriptions","organizations_url":"https://api.github.com/users/jaylara/orgs","repos_url":"https://api.github.com/users/jaylara/repos","events_url":"https://api.github.com/users/jaylara/events{/privacy}","received_events_url":"https://api.github.com/users/jaylara/received_events","type":"User","site_admin":false},"private":false,"html_url":"https://github.com/jaylara/jaydata","description":"A centralized location for all of my APIs","fork":false,"url":"https://api.github.com/repos/jaylara/jaydata","forks_url":"https://api.github.com/repos/jaylara/jaydata/forks","keys_url":"https://api.github.com/repos/jaylara/jaydata/keys{/key_id}","collaborators_url":"https://api.github.com/repos/jaylara/jaydata/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/jaylara/jaydata/teams","hooks_url":"https://api.github.com/repos/jaylara/jaydata/hooks","issue_events_url":"https://api.github.com/repos/jaylara/jaydata/issues/events{/number}","events_url":"https://api.github.com/repos/jaylara/jaydata/events","assignees_url":"https://api.github.com/repos/jaylara/jaydata/assignees{/user}","branches_url":"https://api.github.com/repos/jaylara/jaydata/branches{/branch}","tags_url":"https://api.github.com/repos/jaylara/jaydata/tags","blobs_url":"https://api.github.com/repos/jaylara/jaydata/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/jaylara/jaydata/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/jaylara/jaydata/git/refs{/sha}","trees_url":"https://api.github.com/repos/jaylara/jaydata/git/trees{/sha}","statuses_url":"https://api.github.com/repos/jaylara/jaydata/statuses/{sha}","languages_url":"https://api.github.com/repos/jaylara/jaydata/languages","stargazers_url":"https://api.github.com/repos/jaylara/jaydata/stargazers","contributors_url":"https://api.github.com/repos/jaylara/jaydata/contributors","subscribers_url":"https://api.github.com/repos/jaylara/jaydata/subscribers","subscription_url":"https://api.github.com/repos/jaylara/jaydata/subscription","commits_url":"https://api.github.com/repos/jaylara/jaydata/commits{/sha}","git_commits_url":"https://api.github.com/repos/jaylara/jaydata/git/commits{/sha}","comments_url":"https://api.github.com/repos/jaylara/jaydata/comments{/number}","issue_comment_url":"https://api.github.com/repos/jaylara/jaydata/issues/comments{/number}","contents_url":"https://api.github.com/repos/jaylara/jaydata/contents/{+path}","compare_url":"https://api.github.com/repos/jaylara/jaydata/compare/{base}...{head}","merges_url":"https://api.github.com/repos/jaylara/jaydata/merges","archive_url":"https://api.github.com/repos/jaylara/jaydata/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/jaylara/jaydata/downloads","issues_url":"https://api.github.com/repos/jaylara/jaydata/issues{/number}","pulls_url":"https://api.github.com/repos/jaylara/jaydata/pulls{/number}","milestones_url":"https://api.github.com/repos/jaylara/jaydata/milestones{/number}","notifications_url":"https://api.github.com/repos/jaylara/jaydata/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/jaylara/jaydata/labels{/name}","releases_url":"https://api.github.com/repos/jaylara/jaydata/releases{/id}","deployments_url":"https://api.github.com/repos/jaylara/jaydata/deployments","created_at":"2017-11-13T20:18:49Z","updated_at":"2017-11-13T22:47:28Z","pushed_at":"2017-12-03T21:59:58Z","git_url":"git://github.com/jaylara/jaydata.git","ssh_url":"git@github.com:jaylara/jaydata.git","clone_url":"https://github.com/jaylara/jaydata.git","svn_url":"https://github.com/jaylara/jaydata","homepage":null,"size":71,"stargazers_count":0,"watchers_count":0,"language":"JavaScript","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":0,"mirror_url":null,"archived":false,"open_issues_count":0,"license":null,"forks":0,"open_issues":0,"watchers":0,"default_branch":"master","network_count":0,"subscribers_count":0}
+
+18:29:40.062 [main] DEBUG com.intuit.karate - response time in milliseconds: 1566
+18:29:40.174 [main] INFO  com.intuit.karate - response:
+{
+  "id": 110597338,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMTA1OTczMzg=",
+  "name": "jaydata",
+  "full_name": "jaylara/jaydata",
+  "owner": {
+    "login": "jaylara",
+    "id": 31249568,
+    "node_id": "MDQ6VXNlcjMxMjQ5NTY4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/31249568?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jaylara",
+    "html_url": "https://github.com/jaylara",
+    "followers_url": "https://api.github.com/users/jaylara/followers",
+    "following_url": "https://api.github.com/users/jaylara/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jaylara/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jaylara/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jaylara/subscriptions",
+    "organizations_url": "https://api.github.com/users/jaylara/orgs",
+    "repos_url": "https://api.github.com/users/jaylara/repos",
+    "events_url": "https://api.github.com/users/jaylara/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jaylara/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "private": false,
+  "html_url": "https://github.com/jaylara/jaydata",
+  "description": "A centralized location for all of my APIs",
+  "fork": false,
+  "url": "https://api.github.com/repos/jaylara/jaydata",
+  "forks_url": "https://api.github.com/repos/jaylara/jaydata/forks",
+  "keys_url": "https://api.github.com/repos/jaylara/jaydata/keys{/key_id}",
+  "collaborators_url": "https://api.github.com/repos/jaylara/jaydata/collaborators{/collaborator}",
+  "teams_url": "https://api.github.com/repos/jaylara/jaydata/teams",
+  "hooks_url": "https://api.github.com/repos/jaylara/jaydata/hooks",
+  "issue_events_url": "https://api.github.com/repos/jaylara/jaydata/issues/events{/number}",
+  "events_url": "https://api.github.com/repos/jaylara/jaydata/events",
+  "assignees_url": "https://api.github.com/repos/jaylara/jaydata/assignees{/user}",
+  "branches_url": "https://api.github.com/repos/jaylara/jaydata/branches{/branch}",
+  "tags_url": "https://api.github.com/repos/jaylara/jaydata/tags",
+  "blobs_url": "https://api.github.com/repos/jaylara/jaydata/git/blobs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/jaylara/jaydata/git/tags{/sha}",
+  "git_refs_url": "https://api.github.com/repos/jaylara/jaydata/git/refs{/sha}",
+  "trees_url": "https://api.github.com/repos/jaylara/jaydata/git/trees{/sha}",
+  "statuses_url": "https://api.github.com/repos/jaylara/jaydata/statuses/{sha}",
+  "languages_url": "https://api.github.com/repos/jaylara/jaydata/languages",
+  "stargazers_url": "https://api.github.com/repos/jaylara/jaydata/stargazers",
+  "contributors_url": "https://api.github.com/repos/jaylara/jaydata/contributors",
+  "subscribers_url": "https://api.github.com/repos/jaylara/jaydata/subscribers",
+  "subscription_url": "https://api.github.com/repos/jaylara/jaydata/subscription",
+  "commits_url": "https://api.github.com/repos/jaylara/jaydata/commits{/sha}",
+  "git_commits_url": "https://api.github.com/repos/jaylara/jaydata/git/commits{/sha}",
+  "comments_url": "https://api.github.com/repos/jaylara/jaydata/comments{/number}",
+  "issue_comment_url": "https://api.github.com/repos/jaylara/jaydata/issues/comments{/number}",
+  "contents_url": "https://api.github.com/repos/jaylara/jaydata/contents/{+path}",
+  "compare_url": "https://api.github.com/repos/jaylara/jaydata/compare/{base}...{head}",
+  "merges_url": "https://api.github.com/repos/jaylara/jaydata/merges",
+  "archive_url": "https://api.github.com/repos/jaylara/jaydata/{archive_format}{/ref}",
+  "downloads_url": "https://api.github.com/repos/jaylara/jaydata/downloads",
+  "issues_url": "https://api.github.com/repos/jaylara/jaydata/issues{/number}",
+  "pulls_url": "https://api.github.com/repos/jaylara/jaydata/pulls{/number}",
+  "milestones_url": "https://api.github.com/repos/jaylara/jaydata/milestones{/number}",
+  "notifications_url": "https://api.github.com/repos/jaylara/jaydata/notifications{?since,all,participating}",
+  "labels_url": "https://api.github.com/repos/jaylara/jaydata/labels{/name}",
+  "releases_url": "https://api.github.com/repos/jaylara/jaydata/releases{/id}",
+  "deployments_url": "https://api.github.com/repos/jaylara/jaydata/deployments",
+  "created_at": "2017-11-13T20:18:49Z",
+  "updated_at": "2017-11-13T22:47:28Z",
+  "pushed_at": "2017-12-03T21:59:58Z",
+  "git_url": "git://github.com/jaylara/jaydata.git",
+  "ssh_url": "git@github.com:jaylara/jaydata.git",
+  "clone_url": "https://github.com/jaylara/jaydata.git",
+  "svn_url": "https://github.com/jaylara/jaydata",
+  "homepage": null,
+  "size": 71,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "language": "JavaScript",
+  "has_issues": true,
+  "has_projects": true,
+  "has_downloads": true,
+  "has_wiki": true,
+  "has_pages": false,
+  "forks_count": 0,
+  "mirror_url": null,
+  "archived": false,
+  "open_issues_count": 0,
+  "license": null,
+  "forks": 0,
+  "open_issues": 0,
+  "watchers": 0,
+  "default_branch": "master",
+  "network_count": 0,
+  "subscribers_count": 0
+}
+
+18:29:40.276 [main] DEBUG com.intuit.karate - 
+2 > GET https://avatars1.githubusercontent.com/u/31249568?v=4
+2 > Accept-Encoding: gzip,deflate
+2 > Connection: Keep-Alive
+2 > Host: avatars1.githubusercontent.com
+2 > User-Agent: Apache-HttpClient/4.5.4 (Java/1.8.0_152)
+
+18:29:40.433 [main] DEBUG com.intuit.karate - 
+2 < 200
+2 < Accept-Ranges: bytes
+2 < Access-Control-Allow-Origin: *
+2 < Cache-Control: max-age=300
+2 < Connection: keep-alive
+2 < Content-Length: 23308
+2 < Content-Security-Policy: default-src 'none'
+2 < Content-Type: image/jpeg
+2 < Date: Fri, 22 Jun 2018 23:29:40 GMT
+2 < Etag: "00a3a10f1dbb82c5378286ffcb5806c478f68fa5"
+2 < Expires: Fri, 22 Jun 2018 23:34:40 GMT
+2 < Last-Modified: Fri, 01 Dec 2017 18:11:06 GMT
+2 < Source-Age: 5585
+2 < Strict-Transport-Security: max-age=31557600
+2 < Timing-Allow-Origin: https://github.com
+2 < Vary: Authorization,Accept-Encoding
+2 < Via: 1.1 varnish
+2 < X-Cache: HIT
+2 < X-Cache-Hits: 1
+2 < X-Content-Type-Options: nosniff
+2 < X-Fastly-Request-ID: d5be9c21719167a63b89380add9d7e540b9516c7
+2 < X-Frame-Options: deny
+2 < X-GitHub-Request-Id: 3604:0B0C:43F49:48D92:5B2D7093
+2 < X-Served-By: cache-dfw18636-DFW
+2 < X-Timer: S1529710181.644977,VS0,VE2
+2 < X-Xss-Protection: 1; mode=block
+
+18:29:40.449 [main] DEBUG com.intuit.karate - response time in milliseconds: 174
