@@ -8,8 +8,8 @@ Background: GitHub API Test - Get Repo
 
 Scenario: Get Repo Information
 	
-	* def userName = "jaylara"
-	* def repoName = "jaydata"
+	* def userName = "rabbani"
+	* def repoName = "rabbani"
 
 	Given url cApiUrl
 	And replace enpointRepo.user_name = userName
